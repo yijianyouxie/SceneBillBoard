@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ImposterSystem/Example/Scenes/exampleWater.unity
+  isLoaded: 1
+  isActive: 1
